@@ -1,6 +1,6 @@
 # Music Genre Classification
 
-Clasify music into two categores prigessive rock and non-prog rock.
+Clasify music into two categores progessive rock and non-prog rock.
 
 # Steps to run the project - 
 
