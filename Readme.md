@@ -1,4 +1,4 @@
-# Music GenreBased Classification
+# Music Genre Classification
 
 Clasify music into two categores prigessive rock and non-prog rock.
 
