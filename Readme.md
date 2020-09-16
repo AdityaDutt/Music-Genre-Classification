@@ -28,12 +28,12 @@ All the test features are stored in test_features.py
 All the test djent features are stored in test_djent_features.py
 
 
-## Group Members
+## Authors
 
-1. Aditya Dutt
-2. Richa Dutt
-3. DingKang Wang
-4. Bin XU
-5. Kun Shi
+- Aditya Dutt
+- Richa Dutt
+- DingKang Wang
+- Bin XU
+- Kun Shi
 
 
