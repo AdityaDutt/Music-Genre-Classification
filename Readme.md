@@ -7,10 +7,11 @@ Firstly, minimum duration song, min_duration was found. Then, all songs were div
 - Extract 21 Mfcc features, zero crossing rate, chroma frequencies, spectral bandwidth, spectral centroid, roll off for each chunk. Then, all the features were appended into csv file using pandas. Create a model that uses LSTM with 2 layers and runs on input features. The accuracy with LSTM was 80-85%. An image of features is shown in Fig. 2.
 
 - Fig1. Spectrogram of non-prog rock music chunk
-<img align="left" alt="non-prog" src="/nonprog.png" />
+<img align="center" alt="non-prog" src="/nonprog.png" />
+</br>
 
-- Fig1. Spectrgotam of prog rock music chunk
-<img align="left" alt="prog"  src="/prog.png" />
+- Fig1. Spectrogram of prog rock music chunk
+<img align="center" alt="prog"  src="/prog.png" />
 
 
 # Steps to run the project - 
