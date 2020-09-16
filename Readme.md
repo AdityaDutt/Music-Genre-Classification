@@ -6,11 +6,11 @@ Firstly, minimum duration song, min_duration was found. Then, all songs were div
 - Extract a Mel spectrogram of song chunk and then design a convolution neural net to run on input spectrograms. Spectrograms of a prog and non prog song are shown in Fig. 1 and Fig 2. The accuracy with spectrograms was 70-73%.
 - Extract 21 Mfcc features, zero crossing rate, chroma frequencies, spectral bandwidth, spectral centroid, roll off for each chunk. Then, all the features were appended into csv file using pandas. Create a model that uses LSTM with 2 layers and runs on input features. The accuracy with LSTM was 80-85%. An image of features is shown in Fig. 2.
 
-Fig1. Spectrogram of non-prog rock music chunk
-<img align="left" alt="adityadutt.com" width="22px" src="/non-prog.png" />
+- Fig1. Spectrogram of non-prog rock music chunk
+<img align="left" alt="non-prog" src="/non-prog.png" />
 
-Fig1. Spectrgotam of prog rock music chunk
-<img align="left" alt="adityadutt.com" width="22px" src="/prog.png" />
+- Fig1. Spectrgotam of prog rock music chunk
+<img align="left" alt="prog"  src="/prog.png" />
 
 
 # Steps to run the project - 
